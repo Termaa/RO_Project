@@ -1,0 +1,6 @@
+Use remote methods from remote object -> RMI, see full class on campus.
+
+Framework for development of application with replicated objects.
+
+Replication of object -> JSON
+
